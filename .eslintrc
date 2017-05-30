@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": false,
+    "node": true,
+    "commonjs": true,
+    "amd": true,
+    "jquery": true,
+    "es6": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": "off",
+    "arrow-parens": "off"
+  }
+}

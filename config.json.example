@@ -1,0 +1,6 @@
+{
+  "space": "spaceId",
+  "managementToken": "managmentAPIToken",
+  "interval": 5000,
+  "maxAmount": 10
+}
